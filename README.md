@@ -42,22 +42,16 @@ Make right click again to paste on the terminal
 <br>
 [ID (0/Number of files)] for playing
 <br>
-Images:
-<br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/mp3.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/mp3.PNG)
 <br></br>
 **TTS**
 <br>
 tts [TEXT] for playing google tts
 <br>
-Images:
-<br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/tts.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/tts.PNG)
 <br></br>
 **PLAY**
 <br>
 play [url] for playing sound from youtube
-<br>
-Images:
 <br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/ytb.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/ytb.PNG)
