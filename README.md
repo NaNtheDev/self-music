@@ -47,7 +47,7 @@ Images:
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/mp3.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/mp3.PNG)
 <br></br>
 **TTS**
-<br></br>
+<br>
 tts [TEXT] for playing google tts
 <br>
 Images:
