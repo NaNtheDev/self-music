@@ -58,5 +58,5 @@ Images:
 play [url] for playing sound from youtube
 <br>
 Images:
-<br></br>
+<br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/ytb.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/ytb.PNG)
