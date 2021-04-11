@@ -39,7 +39,7 @@ Make right click again to paste on the terminal
 **Docs:** 
 <br></br>
 **PLAY FILES**
-<br></br>
+<br>
 [ID (0/Number of files)] for playing
 <br>
 Images:
