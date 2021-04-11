@@ -20,7 +20,8 @@ $ node .
 Get my bot token: https://www.writebots.com/discord-bot-token/#:~:text=1%20Go%20to%20the%20Discord%20Developer%20Portal.%20This,to%20navigate%20back%20to%20the%20%E2%80%9COAuth2%E2%80%9D%20tab.%20
 <br>
 Get an user token: https://www.youtube.com/watch?v=3W9tAEsK7RM
-Make right click to paste on the terminal
+<br>
+**Make right click to paste on the terminal**
 <br></br>
 [![N|Solid](https://raw.githubusercontent.com/NaNtheDev/self-music/images/token.PNG)](https://raw.githubusercontent.com/NaNtheDev/self-music/images/token.PNG)
 <br></br>
